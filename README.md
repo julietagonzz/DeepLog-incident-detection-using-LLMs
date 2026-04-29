@@ -1,4 +1,4 @@
-# DeepLog-incident-detection-using-LLMs
+# DeepLog: detección de incidentes mediante el uso de LLMs
 
 Este proyecto utiliza IA (Llama 3) para analizar logs de sistema y detectar ataques de ciberseguridad en tiempo real.
 
